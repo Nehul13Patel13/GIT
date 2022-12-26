@@ -1,1 +1,1 @@
-This repository contains git's most popular and commonly used commands. 
+This repository contains most popular and commonly used commands for git. 
